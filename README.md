@@ -37,12 +37,7 @@ Baixe os arquivos e abra o `index.html` em qualquer navegador.
 1. Crie um repositório no GitHub (ex.: `petshop`) e envie todos os arquivos desta pasta.
 2. No repositório, abra **Settings → Pages**.
 3. Em **Build and deployment**, escolha **Deploy from a branch**, selecione a branch `main` e a pasta `/ (root)` e clique em **Save**.
-4. Aguarde alguns minutos. O site ficará em `https://SEU-USUARIO.github.io/petshop/`.
-
-## Fase 2: ativando as cores
-
-O arquivo `css/estilo.css` já traz o tema branco, azul e rosa. Para aplicá-lo, remova os comentários da linha abaixo no `<head>` de cada página HTML:
-
+4. Aguarde alguns minutos. O site ficará em `https://github.com/romaszw/petshop-patinhas-felizes.git`.
 ```html
 <!-- <link rel="stylesheet" href="css/estilo.css"> -->
 ```
